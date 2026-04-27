@@ -1,0 +1,15 @@
+@charset "windows-1251";
+.mandinistail {
+	font-size: 14px;
+	font-style: italic;
+	color: #F2F76A;
+	background-color: #3399CC;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	border: 0px none #3399CC;
+	visibility: visible;
+	overflow: auto;
+	z-index: auto;
+	position: fixed;
+	cursor: crosshair;
+}

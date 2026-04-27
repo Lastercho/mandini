@@ -1,0 +1,154 @@
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[10-Jul-2021 14:48:32 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[07-Oct-2021 01:54:00 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[11-Jan-2022 04:09:27 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[11-Apr-2022 05:27:53 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[08-Jul-2022 01:17:07 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[30-Sep-2022 03:55:43 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[01-Oct-2022 12:35:21 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[22-Dec-2022 04:33:01 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[14-Mar-2023 08:58:11 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[27-Jun-2023 21:25:53 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[16-Sep-2023 16:29:52 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[06-Dec-2023 21:29:30 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[29-Feb-2024 08:03:00 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 5
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 6
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 7
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "email" in /home/mandini/public_html/Scripts/email.php on line 8
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "name" in /home/mandini/public_html/Scripts/email.php on line 9
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "firma" in /home/mandini/public_html/Scripts/email.php on line 11
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined variable $message in /home/mandini/public_html/Scripts/email.php on line 11
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "phone" in /home/mandini/public_html/Scripts/email.php on line 12
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "DDS" in /home/mandini/public_html/Scripts/email.php on line 13
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "comments" in /home/mandini/public_html/Scripts/email.php on line 14
+[28-Jan-2025 23:54:34 Europe/Sofia] PHP Warning:  Undefined array key "price" in /home/mandini/public_html/Scripts/email.php on line 15

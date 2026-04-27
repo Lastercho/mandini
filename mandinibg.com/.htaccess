@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mandinibg.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.mandinibg.com$
+RewriteRule ^/?$ "http\:\/\/mandini\.eu" [R=301,L]
+

@@ -1,0 +1,265 @@
+﻿#leftpanel	{
+	float: left;
+}
+#searchform	{
+	margin-right: 20px;
+}
+#rightpanel	{
+	float: right;
+}
+
+#overview	{
+	position: absolute;
+	z-index: 1000;
+	bottom: 10px;
+	right: 10px;
+}
+#overview-map	{
+	border: 1px solid white;
+}
+#overview-container	
+{
+	position: absolute; 
+	top: 3px; 
+	left: 3px;
+}
+#overview-marker    {
+    position: absolute;
+    border: 1px solid red;
+    background: white;
+    opacity: 0.7;
+    filter: alpha(opacity = 70);
+    z-index: 1002;
+}
+#overview-current	{
+	position: absolute;
+	z-index: 1001;
+}
+#show-ov	{
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	bottom: 6px;
+	right: 6px;
+	z-index: 1000;
+}
+#hide-ov {
+	bottom: 4px;
+	right: 4px;
+}
+
+a.info-icon {
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+	background: transparent url("../images/info.png") no-repeat scroll 0 0;
+}
+div.info-icon-shadow	{
+	width: 25px;
+	height: 25px;
+	background: transparent url("../images/round-shadow.png") no-repeat scroll -1px -1px;
+	z-index: 5;
+}
+
+
+/* Nearest control */
+table.allCategories tr {
+	padding-bottom:5px;
+}
+table.allCategories td {
+	line-height: 18px;
+	vertical-align:top;
+}
+table.allCategories td.superCategories {
+	text-align:right;
+	font-weight:bold;
+}
+
+table.allCategories td.categoriesList {
+	width:650px;
+}
+
+table.allCategories td.categoriesList ul {
+	list-style:none outside none;
+	margin-top:0px;
+	margin-left:10px;
+}
+table.allCategories td.categoriesList input {
+	margin-left:15px;
+}
+table.allCategories td.categoriesList li {
+	display:inline;
+}
+table.allCategories td.categoriesList li a {
+	padding-left: 5px;	
+	padding-right: 5px;	
+	text-decoration: none;
+	display: inline-block;
+}
+table.allCategories td.categoriesList li a:hover {
+	background-color: #DCE6FF;
+	text-decoration: none;
+	color: Black;
+}
+table.allCategories td.categoriesList li a span.link {
+	text-decoration: underline;
+}
+table.allCategories td.categoriesList li a span.count {
+	color: Gray;	
+}
+table.allCategories td.categoriesList li a:hover span.link {
+	text-decoration: none;
+}
+table.allCategories td.categoriesList li.selected, 
+table.allCategories td.categoriesList li.selected a{
+	background-color: #005099;
+	color: White;
+}
+table.allCategories td.categoriesList li.selected a span.link{
+	text-decoration: none;	
+}
+/* Nearest control */
+
+
+/* Shadow Elements */
+.box-shadow, .box-shadow div	{
+	background: transparent url("../images/shadow.png") no-repeat scroll 0 0;
+}
+/* ! */
+
+/* Shrinkable Elements */
+	.shrinkable	{
+		position: relative;
+	}
+	.shrinked	{
+	}
+	.shrinker	{
+		position: absolute;
+		width: 20px;
+		height: 20px;
+	}
+	.shrinker.on	{
+		background: transparent url("../images/shrink.png") no-repeat scroll 0 0;
+	}
+	.shrinker.on:hover	{
+		background-position: 0 -40px;
+	}
+	.shrinker.on:active	{
+		background-position: 0 -80px;
+	}
+	.shrinker.off	{
+		background: transparent url("../images/shrink.png") no-repeat scroll 0 -20px;
+	}
+	.shrinker.off:hover	{
+		background-position: 0 -60px;
+	}
+	.shrinker.off:active	{
+		background-position: 0 -100px;
+	}
+/* !Shrinkable */
+
+/* map control specific definitions */
+#viewport	{
+	
+}
+#viewport .h	{
+	background: transparent url("../images/map/border.png") repeat-y scroll top left;
+	z-index: 1;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 5px;
+	height: 100%;
+}
+#viewport .hh	{
+	background: transparent url("../images/map/border-right.png") repeat-y scroll top left;
+	z-index: 1;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 5px;
+	height: 100%;
+}
+
+.zoom-control a	{
+	position: relative;
+	display: block;
+	cursor: pointer;
+}
+.zoom-control a.zoomin, .zoom-control a.zoomout	{
+	width: 28px;
+	height: 28px;
+}
+.zoom-control a.slider	{
+	width: 22px;
+	height: 7px;
+}
+.zoom-control a.zoomin	{
+	background: transparent url("../images/map/zoom/plus-sprite.png") no-repeat scroll 0 0;
+}
+.zoom-control a.zoomin:hover	{
+	background: transparent url("../images/map/zoom/plus-sprite.png") no-repeat scroll 0 -28px;
+}
+.zoom-control a.zoomin:active	{
+	background: transparent url("../images/map/zoom/plus-sprite.png") no-repeat scroll 0 -56px;
+}
+.zoom-control a.zoomout	{
+	background: transparent url("../images/map/zoom/minus-sprite.png") no-repeat scroll 0 0;
+}
+.zoom-control a.zoomout:hover	{
+	background: transparent url("../images/map/zoom/minus-sprite.png") no-repeat scroll 0 -28px;
+}
+.zoom-control a.zoomout:active	{
+	background: transparent url("../images/map/zoom/minus-sprite.png") no-repeat scroll 0 -56px;
+}
+.zoom-control a.slider	{
+	background: transparent url("../images/map/zoom/vertical-slider-sprite.png") no-repeat scroll 0 0;
+}
+.zoom-control a.slider:hover	{
+	background: transparent url("../images/map/zoom/vertical-slider-sprite.png") no-repeat scroll 0 -7px;
+}
+.zoom-control a.slider:active	{
+	background: transparent url("../images/map/zoom/vertical-slider-sprite.png") no-repeat scroll 0 -14px;
+}
+
+.metricline	{
+	padding: 0px 10px 1px 5px;
+	height: 13px;
+	line-height: 13px;
+	position: absolute;
+	z-index: 1000;
+	bottom: 8px;
+	left: 8px;
+	background: white;
+	background: rgba(255, 255, 255, 0.85);
+	font-size: 90%;
+	white-space: nowrap;
+}
+.metricline img	{
+	/*margin: 0 5px;*/
+}
+.metricline-start, .metricline-end	{
+	float: left;
+	height: 10px;
+	margin-top: 2px;
+}
+.metricline-start	{
+	width: 50px;
+	/*background: transparent url("../images/map/metricline-start.png") no-repeat scroll 0 0;*/
+	overflow: hidden;
+	padding: 0;
+}
+.metricline-end	{
+	width: 3px;
+	/*background: transparent url("../images/map/metricline-end.png") no-repeat scroll 0 0;*/
+	margin-right: 5px;
+	overflow: hidden;
+	padding: 0;
+}
+
+.map-blend img	{
+	opacity: 0.6;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+}
+

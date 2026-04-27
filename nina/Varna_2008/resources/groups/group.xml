@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+ <groupInfo>
+  <galleryName>Reflection</galleryName>
+  <galleryDescription>Your photos are arranged in a 3D circle, and can be rotated and zoomed for closer viewing.</galleryDescription>
+  <creator designer="German Bauer and Wayne Jiang" company="Adobe" />
+  <category>Interactive</category>
+  <thumbnailPath src="gallerythumb.jpg" />
+  <custom>
+   <pageTitle>Varna 2008</pageTitle>
+   <pageSubtitle>Sv. Konstantin i Elena</pageSubtitle>
+   <emailAddress></emailAddress>
+  </custom>
+ </groupInfo>
+ <sizes>
+  <imageSize size="medium" maxwidth="640" maxheight="480" />
+ </sizes>
+ <media>
+  <item>
+   <title>HPIM5645</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5645.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5646</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5646.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5647</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5647.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5649</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5649.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5651</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5651.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5653</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5653.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5654</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5654.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5657</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5657.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5658</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5658.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5659</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5659.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5660</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5660.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5643_edited-1</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5643_edited-1.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5644</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5644.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5626</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5626.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5616</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5616.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5617</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5617.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5618</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5618.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5620</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5620.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5622</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5622.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5608</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5608.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5609</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5609.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5614</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5614.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5615</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5615.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5596</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5596.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5597</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5597.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5603</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5603.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5561</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5561.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5562</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5562.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5563</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5563.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5568</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5568.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5569</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5569.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5570</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5570.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5576</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5576.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5579</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5579.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5580</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5580.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5589</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5589.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5591</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5591.jpg" />
+   </renditions>
+  </item>
+  <item>
+   <title>HPIM5593</title>
+   <description/>
+   <metadata>No data</metadata>
+   <photographer>No photo</photographer>
+   <copyright>No cr</copyright>
+   <imageId image="" dbtype="" dbname="" />
+   <location accuracy="16" longitude="26.06636047" latitude="42.95106125" />
+   <mediaType category="image" format="jpeg" />
+   <renditions>
+    <rendition width="640" size="medium" height="480" src="resources/media/reflection/medium/HPIM5593.jpg" />
+   </renditions>
+  </item>
+ </media>
+</mediaGroup>

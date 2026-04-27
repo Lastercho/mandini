@@ -1,0 +1,48 @@
+﻿#main	{
+	width: 605px;
+	margin: 0 auto;	
+}
+#toppanel	{
+	height: 50px;
+}
+#largemap	{
+	margin-top: 10px;	
+}
+#bottompanel {
+	text-align: center;
+}
+.logo {
+	vertical-align: top;
+	float: left;
+	display: block;
+}
+#notes	{
+	float: right;
+	display: block;
+	height: 50px;
+	width: 395px;
+	padding: 0pt;
+	margin: 0 0 0 5px;
+	border: 1px solid #005099;
+	outline: 0 none;
+	overflow: hidden;	
+}
+
+/* routing print rules */
+#toggleDetailedMapLink	{
+	float: right;
+	margin: 30px 5px 0 0;
+}
+#routing-tree	{
+	margin: auto;
+	width: 500px;
+}
+#routing-tree .list-container	{
+	width: 400px;
+}
+
+@media print	{
+	#header, #footer, .noprint, .zoom-control	{
+		display:none;
+	}
+}

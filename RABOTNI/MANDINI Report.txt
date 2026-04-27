@@ -1,0 +1,140 @@
+MANDINI.swf Movie Report
+-------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1            536            536    Mandini (AS 2.0 Classes Export Frame)
+      2             45            581    
+      3             45            626    
+      4             45            671    
+      5             45            716    
+      6             45            761    
+      7             45            806    
+      8             45            851    
+      9             45            896    
+     10             45            941    
+     11             45            986    
+     12             45           1031    
+     13             45           1076    
+     14             45           1121    
+     15             45           1166    
+     16             45           1211    
+     17             45           1256    
+     18             45           1301    
+     19             45           1346    
+     20             45           1391    
+     21             45           1436    
+     22             45           1481    
+     23             45           1526    
+     24             45           1571    
+     25             45           1616    
+     26             45           1661    
+     27             45           1706    
+     28             45           1751    
+     29             45           1796    
+     30             45           1841    
+     31             45           1886    
+     32             45           1931    
+     33             45           1976    
+     34             45           2021    
+     35             45           2066    
+     36             45           2111    
+     37             45           2156    
+     38             45           2201    
+     39           2131           4332    
+     40             63           4395    
+     41            128           4523    
+     42             17           4540    
+     43             17           4557    
+     44             20           4577    
+     45              2           4579    
+     46              2           4581    
+     47              2           4583    
+     48              2           4585    
+     49              2           4587    
+     50              2           4589    
+     51              2           4591    
+     52              2           4593    
+     53              2           4595    
+     54              2           4597    
+     55             10           4607    
+     56           1100           5707    
+     57             44           5751    
+     58             44           5795    
+     59             44           5839    
+     60             44           5883    
+     61             39           5922    
+     62             44           5966    
+     63             44           6010    
+     64             44           6054    
+     65             44           6098    
+     66             44           6142    
+     67             39           6181    
+     68            179           6360    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Mandini                              103            38                   156
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Symbol 35                              0            38                     0
+Tween 14                               0             0                     0
+Tween 13                               0             0                     0
+Tween 12                               0             0                     0
+Tween 11                               0             0                     0
+Tween 10                               0             0                     0
+Tween 1                                0            37                     0
+BUTONFLASH                            35             0                     0
+BUTONTITI                              0             0                     0
+Symbol 26                              0             0                     0
+Tween 9                                0             0                     0
+Tween 8                               40             0                     0
+Tween 7                                0             0                     0
+Tween 6                                0             0                     0
+Tween 5                                0             0                     0
+Tween 4                                0             0                     0
+Symbol 16                              0             0                     0
+Symbol 15                              0             0                     0
+Symbol 14                              0             0                     0
+BUTON11                                0             0                     0
+Symbol 11                              0             0                     0
+Symbol11                               0             0                     0
+Symbol 10                              0             0                     0
+Symbol 9                               0             0                     0
+Symbol 8                               0             0                     0
+Symbol 7                               0             0                     0
+Tween 3                               45             0                     0
+Tween 2                                0             0                     0
+ZNAK                                   0           108                     0
+Combo Box                              0             0                     0
+BUTONHTML                              0             0                     0
+Button: ITEM 1                         0             0                     0
+Menu Text: ITEM                        0             0                     0
+Menu Text: 1                           0             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Copperplate Gothic Bold Bold      842    AFHLMRST
+Arial CE                        268    ADIMN
+
+ActionScript Bytes    Location
+------------------    --------
+                 2    Mandini:Layer 6:39
+                36    Mandini:Layer 6:39:No instance name assigned(BUTONTITI)
+                 2    Mandini:Layer 8:44
+                52    Mandini:Layer 4:56:No instance name assigned(BUTONHTML)
+                53    Mandini:Layer 4:56:No instance name assigned(BUTONFLASH)
+                11    Mandini:Layer 3:68
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Latch Slide                   743        11KHz Mono 16 kbps MP3
+TITI                         1055        11KHz Mono 16 kbps MP3
+
+
+
+

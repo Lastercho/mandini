@@ -1,0 +1,51 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="GalleryMaker.xml" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\GalleryMaker.xml" />
+  <file dest="gallerythumb.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\gallerythumb.jpg" />
+  <file dest="index.html" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="reflection.swf" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\reflection.swf" />
+  <file dest="resources\groups\group.xml" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\reflection\medium\HPIM5561.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5561.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5562.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5562.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5563.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5563.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5568.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5568.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5569.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5569.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5570.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5570.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5576.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5576.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5579.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5579.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5580.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5580.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5589.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5589.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5591.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5591.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5593.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5593.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5596.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5596.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5597.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5597.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5603.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5603.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5608.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5608.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5609.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5609.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5614.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5614.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5615.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5615.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5616.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5616.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5617.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5617.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5618.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5618.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5620.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5620.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5622.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5622.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5626.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5626.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5643_edited-1.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5643_edited-1.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5644.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5644.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5645.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5645.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5646.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5646.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5647.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5647.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5649.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5649.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5651.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5651.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5653.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5653.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5654.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5654.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5657.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5657.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5658.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5658.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5659.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5659.jpg" />
+  <file dest="resources\media\reflection\medium\HPIM5660.jpg" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\media\reflection\medium\HPIM5660.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Documents and Settings\Боян\Local Settings\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

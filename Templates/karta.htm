@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head id="Head1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>
+	Карта за печат
+</title><link href="karta_files/map.css" rel="stylesheet" type="text/css"><link href="karta_files/print.css" rel="stylesheet" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<link rel="icon" type="image/x-icon" href="http://www.bgmaps.com/content/images/favicon.ico">
+<link rel="shortcut icon" href="http://www.bgmaps.com/content/images/favicon.ico">
+<link href="karta_files/site.css" rel="stylesheet" type="text/css">
+<script src="karta_files/prototype1.js" type="text/javascript"></script>
+<script src="karta_files/scriptaculous.js" type="text/javascript"></script><script type="text/javascript" src="karta_files/effectsmin.js"></script><script type="text/javascript" src="karta_files/controlsmin.js"></script>
+<script src="karta_files/globals.js" type="text/javascript"></script>
+<script id="mapsource" src="karta_files/bgmaps.js" type="text/javascript"></script><script type="text/javascript" src="karta_files/_maps.js"></script>
+<script src="karta_files/dictionary.js" type="text/javascript"></script>
+<script src="karta_files/translate.js" type="text/javascript"></script>
+<!--[if lte IE 6]>
+<link href="/content/css/ie6pngfix.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+    <script type="text/javascript">
+		var sid = "28DA47FFB8836CD0F5B8DC9F57D2D70F";
+		var SmallMap, LargeMap;
+		document.observe("dom:loaded", function() {
+			$("notes").select();
+			$("notes").focus();
+		
+			LargeMap = new BGMap.Map($("largemap"), {
+				cities: '/ajax/map/1/Grids',
+				gridxml: '/ajax/map/1/Grids',
+				gateway: '/ajax/map/1/',
+				position: new Pos(-224.726305883139,-338.386099408074),
+				center: new Pos(527.226305883139,720.886099408074),
+				topLeftTile: new Pos(958,641),
+				size: new Size(605,765),
+				scale: "m5k^bg",
+				useZoomControl: true });
+				
+			var LargeMapLayer = new BGMap.Layer(LargeMap, { gateway: LargeMap.options.gateway + "updateprintpoi", id: "current", redraw: false, norefresh: false, async: false, zIndex: 999, moreRequestParams: { sid: sid }  });
+			LargeMapLayer.addMarker(new BGMap.Marker({ src: '/Content/images/map/circle.png', hover: '/Content/images/map/circle-hover.png', select: '/Content/images/map/circle.png', size: new Size(56, 56), pos: new Pos(0, 0), infoPos: new Pos(0,0), id: "current"}));
+			LargeMapLayer.updateMethodForceRedraw();
+			
+			$("print-page").observe("click", function(event) {
+				window.print();
+				return false;
+			});
+		});
+	</script>
+</head>
+	<body>
+		<div id="main">
+			<div id="toppanel">
+				<img id="logo" src="karta_files/logo.gif" alt="Лого на BGMaps">
+				<textarea id="notes" rows="3" cols="13">Пловдив
+бул. Санкт Петербург №37
+4017 Пловдив, кв. Каменица, Район Източен</textarea>
+			</div>
+			<div style="position: relative; overflow: hidden; width: 605px; height: 765px;" class="viewport" id="largemap"><div style="position: absolute; left: -449px; top: -103px; cursor: default;" id="map0"><div style="position: absolute; -moz-user-select: none;" id="map0layer0"><img src="karta_files/640_002.png" style="position: absolute; width: 200px; height: 200px; left: 0px; top: 0px; -moz-user-select: none;"><img src="karta_files/640_003.png" style="position: absolute; width: 200px; height: 200px; left: 200px; top: 0px; -moz-user-select: none;"><img src="karta_files/640_006.png" style="position: absolute; width: 200px; height: 200px; left: 400px; top: 0px; -moz-user-select: none;"><img src="karta_files/640_004.png" style="position: absolute; width: 200px; height: 200px; left: 600px; top: 0px; -moz-user-select: none;"><img src="karta_files/640.png" style="position: absolute; width: 200px; height: 200px; left: 800px; top: 0px; -moz-user-select: none;"><img src="karta_files/640_005.png" style="position: absolute; width: 200px; height: 200px; left: 1000px; top: 0px; -moz-user-select: none;"><img src="karta_files/639_006.png" style="position: absolute; width: 200px; height: 200px; left: 0px; top: 200px; -moz-user-select: none;"><img src="karta_files/639_003.png" style="position: absolute; width: 200px; height: 200px; left: 200px; top: 200px; -moz-user-select: none;"><img src="karta_files/639_002.png" style="position: absolute; width: 200px; height: 200px; left: 400px; top: 200px; -moz-user-select: none;"><img src="karta_files/639_004.png" style="position: absolute; width: 200px; height: 200px; left: 600px; top: 200px; -moz-user-select: none;"><img src="karta_files/639_005.png" style="position: absolute; width: 200px; height: 200px; left: 800px; top: 200px; -moz-user-select: none;"><img src="karta_files/639.png" style="position: absolute; width: 200px; height: 200px; left: 1000px; top: 200px; -moz-user-select: none;"><img src="karta_files/638.png" style="position: absolute; width: 200px; height: 200px; left: 0px; top: 400px; -moz-user-select: none;"><img src="karta_files/638_004.png" style="position: absolute; width: 200px; height: 200px; left: 200px; top: 400px; -moz-user-select: none;"><img src="karta_files/638_003.png" style="position: absolute; width: 200px; height: 200px; left: 400px; top: 400px; -moz-user-select: none;"><img src="karta_files/638_005.png" style="position: absolute; width: 200px; height: 200px; left: 600px; top: 400px; -moz-user-select: none;"><img src="karta_files/638_002.png" style="position: absolute; width: 200px; height: 200px; left: 800px; top: 400px; -moz-user-select: none;"><img src="karta_files/638_006.png" style="position: absolute; width: 200px; height: 200px; left: 1000px; top: 400px; -moz-user-select: none;"><img src="karta_files/637_005.png" style="position: absolute; width: 200px; height: 200px; left: 0px; top: 600px; -moz-user-select: none;"><img src="karta_files/637_006.png" style="position: absolute; width: 200px; height: 200px; left: 200px; top: 600px; -moz-user-select: none;"><img src="karta_files/637_003.png" style="position: absolute; width: 200px; height: 200px; left: 400px; top: 600px; -moz-user-select: none;"><img src="karta_files/637_002.png" style="position: absolute; width: 200px; height: 200px; left: 600px; top: 600px; -moz-user-select: none;"><img src="karta_files/637_004.png" style="position: absolute; width: 200px; height: 200px; left: 800px; top: 600px; -moz-user-select: none;"><img src="karta_files/637.png" style="position: absolute; width: 200px; height: 200px; left: 1000px; top: 600px; -moz-user-select: none;"><img src="karta_files/636_003.png" style="position: absolute; width: 200px; height: 200px; left: 0px; top: 800px; -moz-user-select: none;"><img src="karta_files/636_004.png" style="position: absolute; width: 200px; height: 200px; left: 200px; top: 800px; -moz-user-select: none;"><img src="karta_files/636.png" style="position: absolute; width: 200px; height: 200px; left: 400px; top: 800px; -moz-user-select: none;"><img src="karta_files/636_005.png" style="position: absolute; width: 200px; height: 200px; left: 600px; top: 800px; -moz-user-select: none;"><img src="karta_files/636_002.png" style="position: absolute; width: 200px; height: 200px; left: 800px; top: 800px; -moz-user-select: none;"><img src="karta_files/636_006.png" style="position: absolute; width: 200px; height: 200px; left: 1000px; top: 800px; -moz-user-select: none;"><img src="karta_files/635_003.png" style="position: absolute; width: 200px; height: 200px; left: 0px; top: 1000px; -moz-user-select: none;"><img src="karta_files/635_005.png" style="position: absolute; width: 200px; height: 200px; left: 200px; top: 1000px; -moz-user-select: none;"><img src="karta_files/635_004.png" style="position: absolute; width: 200px; height: 200px; left: 400px; top: 1000px; -moz-user-select: none;"><img src="karta_files/635_006.png" style="position: absolute; width: 200px; height: 200px; left: 600px; top: 1000px; -moz-user-select: none;"><img src="karta_files/635_002.png" style="position: absolute; width: 200px; height: 200px; left: 800px; top: 1000px; -moz-user-select: none;"><img src="karta_files/635.png" style="position: absolute; width: 200px; height: 200px; left: 1000px; top: 1000px; -moz-user-select: none;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 10000; cursor: default; display: none;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 999; cursor: default;"><div style="position: absolute; width: 56px; height: 56px; left: 699px; top: 493px;"><img style="width: 56px; height: 56px; -moz-user-select: none; position: absolute; left: 0px; top: 0px;" src="karta_files/circle.png"></div></div></div><div style="position: absolute; left: 15px; top: 5px; z-index: 1000; width: 28px; height: 62px;" class="zoom-control"><a class="zoomin"></a><div style="position: relative; width: 28px; height: 60px;"><a style="z-index: 100; position: absolute; left: 3px; top: 0px;" class="slider"></a><img class="zoom-segment" style="position: absolute; top: 0px;" src="karta_files/vertical-segment.png" alt="M 1:5000" title="M 1:5000"><img class="zoom-segment" style="position: absolute; top: 6px;" src="karta_files/vertical-segment.png" alt="M 1:15000" title="M 1:15000"><img class="zoom-segment" style="position: absolute; top: 12px;" src="karta_files/vertical-segment.png" alt="M 1:25000" title="M 1:25000"><img class="zoom-segment" style="position: absolute; top: 18px;" src="karta_files/vertical-segment.png" alt="M 1:50000" title="M 1:50000"><img class="zoom-segment" style="position: absolute; top: 24px;" src="karta_files/vertical-segment.png" alt="M 1:100000" title="M 1:100000"><img class="zoom-segment" style="position: absolute; top: 30px;" src="karta_files/vertical-segment.png" alt="M 1:250000" title="M 1:250000"><img class="zoom-segment" style="position: absolute; top: 36px;" src="karta_files/vertical-segment.png" alt="M 1:500000" title="M 1:500000"><img class="zoom-segment" style="position: absolute; top: 42px;" src="karta_files/vertical-segment.png" alt="M 1:1000000" title="M 1:1000000"><img class="zoom-segment" style="position: absolute; top: 48px;" src="karta_files/vertical-segment.png" alt="M 1:1250000" title="M 1:1250000"><img class="zoom-segment" style="position: absolute; top: 54px;" src="karta_files/vertical-segment.png" alt="M 1:2850000" title="M 1:2850000"></div><a class="zoomout"></a></div><div class="metricline"><div style="width: 73px;" class="metricline-start"><img style="width: 100px; height: 10px;" src="karta_files/metricline-start.png"></div><div class="metricline-end"><img style="width: 2px; height: 10px;" src="karta_files/metricline-end.png"></div><span class="meters">100 m</span></div></div>
+			<p id="bottompanel" class="noprint">
+				<button class="icon-print big" id="print-page">Разпечатай</button>
+			</p>
+		</div>
+		
+<!-- (C)2000-2008 Gemius SA - gemiusAudience / bgmaps.com / Others -->
+<script type="text/javascript">
+<!--    //--><![CDATA[//><!--
+    var pp_gemius_identifier = new String('zCtKrzQgK53C6F96.7FTOacUHSEIzGN_cSD3vz7vFlL.47');
+    //--><!]]>
+</script>
+<script type="text/javascript" src="karta_files/xgemius.js"></script>
+		
+<script type="text/javascript">
+	/* Google Analytics */
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-2134845-1']);
+	_gaq.push(['_trackPageview']);
+</script>
+<script type="text/javascript" src="karta_files/ga.js" async="async"></script>
+    
+</body></html>
