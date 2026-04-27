@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin
+Disallow: /FLASH
+Disallow: /forum
+Disallow: /gallery
+Disallow: /HTMLfiles
+Disallow: /IMAGES
+Disallow: /ksudsphp
+Disallow: /mandinibg.com
+Disallow: /nina
+Disallow: /RABOTNI
+Disallow: /Scripts
+Disallow: /SpryAssets
+Disallow: /st
+Disallow: /Templates
+Sitemap: http://www.mandini.eu/sitemap.xml
